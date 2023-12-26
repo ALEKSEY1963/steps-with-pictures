@@ -198,6 +198,7 @@ textarea {
   -webkit-transition: color 0.5s ease-in-out;
   -o-transition: color 0.5s ease-in-out;
   transition: color 0.5s ease-in-out;
+  backdrop-filter: contrast(0.92);
 }
 .how-list__btn:hover {
   color: var(--color-btn);
