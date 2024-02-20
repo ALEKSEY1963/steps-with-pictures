@@ -96,7 +96,7 @@ textarea {
   --color-light: #fff;
   --color-active: #e1670e;
   --color-btn: #ff9900;
-  --color-orange: #ffb84d;
+  --color-orange: #ffb85d;
 }
 
 .page {
@@ -151,7 +151,7 @@ textarea {
 }
 .how-list {
   padding-top: 3%;
-  padding-bottom: 2.7%;
+  padding-bottom: 2.6%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
